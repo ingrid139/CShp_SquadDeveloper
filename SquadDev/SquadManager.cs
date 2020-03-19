@@ -133,6 +133,7 @@ namespace SquadDev
         private IEnumerable<Developer> GetDevsOnSquad(long squadId)
         {
             //Para recuperar valores isolados, utiliza-se a propriedade Values
+            //a lambda é uma mandeira succinta de declarar uma função, sendo os parámetros da função antes do =>, e o conteúdo da função depois.
             return devs.Values.Where(x => x.SquadId == squadId);
         }
 
@@ -145,6 +146,7 @@ namespace SquadDev
         {
             Squad squad = GetSquad(squadId);
 
+            //a lambda é uma mandeira succinta de declarar uma função, sendo os parámetros da função antes do =>, e o conteúdo da função depois.
             return GetDevsOnSquad(squadId).
                     Select(x => x.Id).
                     OrderBy(x => x).

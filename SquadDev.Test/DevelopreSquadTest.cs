@@ -32,12 +32,14 @@ namespace SquadDev.Test
             return manager;
         }
 
-        public static ISquadManager AdicionarDesenvolvedoresEmSquad(long squadId, IEnumerable<long> developersIds)
+        private static ISquadManager AdicionarDesenvolvedoresEmSquad(long squadId, IEnumerable<long> developersIds)
         {
-            var manager = NovaInstancia();
+            //var manager = NovaInstancia();
 
-            //add squad
-            manager.AddSquad(squadId, $"Squad {squadId}");
+            ////add squad
+            //manager.AddSquad(squadId, $"Squad {squadId}");
+
+            var manager = AdicionarSquad(squadId);
 
             //para cada dev
             developersIds.ToList().ForEach(playerId => 
@@ -155,6 +157,7 @@ namespace SquadDev.Test
             //arranje
             long squadId = 1;
             //var devsIds = new List<long>() { 15, 2, 33, 4, 13 };
+            //a lambda é uma mandeira succinta de declarar uma função, sendo os parámetros da função antes do =>, e o conteúdo da função depois.
             var devsIds = devs.Split(';').Select(x => long.Parse(x)).ToList();
 
             //act

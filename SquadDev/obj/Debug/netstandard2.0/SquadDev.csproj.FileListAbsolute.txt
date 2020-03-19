@@ -1,8 +1,8 @@
 C:\Users\icosta\source\repos\Cshrp_SquadDev\SquadDev\bin\Debug\netstandard2.0\SquadDev.deps.json
 C:\Users\icosta\source\repos\Cshrp_SquadDev\SquadDev\bin\Debug\netstandard2.0\SquadDev.dll
 C:\Users\icosta\source\repos\Cshrp_SquadDev\SquadDev\bin\Debug\netstandard2.0\SquadDev.pdb
-C:\Users\icosta\source\repos\Cshrp_SquadDev\SquadDev\obj\Debug\netstandard2.0\SquadDev.csprojAssemblyReference.cache
 C:\Users\icosta\source\repos\Cshrp_SquadDev\SquadDev\obj\Debug\netstandard2.0\SquadDev.AssemblyInfoInputs.cache
 C:\Users\icosta\source\repos\Cshrp_SquadDev\SquadDev\obj\Debug\netstandard2.0\SquadDev.AssemblyInfo.cs
 C:\Users\icosta\source\repos\Cshrp_SquadDev\SquadDev\obj\Debug\netstandard2.0\SquadDev.dll
 C:\Users\icosta\source\repos\Cshrp_SquadDev\SquadDev\obj\Debug\netstandard2.0\SquadDev.pdb
+C:\Users\icosta\source\repos\Cshrp_SquadDev\SquadDev\obj\Debug\netstandard2.0\SquadDev.csprojAssemblyReference.cache
