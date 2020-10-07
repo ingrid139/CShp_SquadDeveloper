@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquadDev", "SquadDev\SquadDev.csproj", "{21712FC5-2403-4328-9C66-E25680F5FA93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquadDev", "SquadDev\SquadDev.csproj", "{21712FC5-2403-4328-9C66-E25680F5FA93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquadDev.Test", "SquadDev.Test\SquadDev.Test.csproj", "{74C73239-45DC-4453-95B6-2A4BDA6D0E33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SquadDev.Test", "SquadDev.Test\SquadDev.Test.csproj", "{74C73239-45DC-4453-95B6-2A4BDA6D0E33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

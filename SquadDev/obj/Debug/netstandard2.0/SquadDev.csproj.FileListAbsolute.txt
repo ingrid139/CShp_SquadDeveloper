@@ -6,3 +6,12 @@ C:\Users\icosta\source\repos\Cshrp_SquadDev\SquadDev\obj\Debug\netstandard2.0\Sq
 C:\Users\icosta\source\repos\Cshrp_SquadDev\SquadDev\obj\Debug\netstandard2.0\SquadDev.dll
 C:\Users\icosta\source\repos\Cshrp_SquadDev\SquadDev\obj\Debug\netstandard2.0\SquadDev.pdb
 C:\Users\icosta\source\repos\Cshrp_SquadDev\SquadDev\obj\Debug\netstandard2.0\SquadDev.csprojAssemblyReference.cache
+C:\Users\Ingrid Costa\source\repos\CShp_SquadDeveloper\SquadDev\bin\Debug\netstandard2.0\SquadDev.deps.json
+C:\Users\Ingrid Costa\source\repos\CShp_SquadDeveloper\SquadDev\bin\Debug\netstandard2.0\SquadDev.dll
+C:\Users\Ingrid Costa\source\repos\CShp_SquadDeveloper\SquadDev\bin\Debug\netstandard2.0\SquadDev.pdb
+C:\Users\Ingrid Costa\source\repos\CShp_SquadDeveloper\SquadDev\obj\Debug\netstandard2.0\SquadDev.csprojAssemblyReference.cache
+C:\Users\Ingrid Costa\source\repos\CShp_SquadDeveloper\SquadDev\obj\Debug\netstandard2.0\SquadDev.AssemblyInfoInputs.cache
+C:\Users\Ingrid Costa\source\repos\CShp_SquadDeveloper\SquadDev\obj\Debug\netstandard2.0\SquadDev.AssemblyInfo.cs
+C:\Users\Ingrid Costa\source\repos\CShp_SquadDeveloper\SquadDev\obj\Debug\netstandard2.0\SquadDev.csproj.CoreCompileInputs.cache
+C:\Users\Ingrid Costa\source\repos\CShp_SquadDeveloper\SquadDev\obj\Debug\netstandard2.0\SquadDev.dll
+C:\Users\Ingrid Costa\source\repos\CShp_SquadDeveloper\SquadDev\obj\Debug\netstandard2.0\SquadDev.pdb

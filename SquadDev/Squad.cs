@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace SquadDev
+﻿namespace SquadDev
 {
     public class Squad
     {

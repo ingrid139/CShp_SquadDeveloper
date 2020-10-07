@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace SquadDev
+﻿namespace SquadDev
 {
     public class Developer
     {
