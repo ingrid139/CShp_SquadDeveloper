@@ -178,23 +178,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\icosta\\.nuget\\packages\\": {},
+    "C:\\Users\\Ingrid Costa\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\icosta\\source\\repos\\Cshrp_SquadDev\\SquadDev\\SquadDev.csproj",
+      "projectUniqueName": "C:\\Users\\Ingrid Costa\\source\\repos\\CShp_SquadDeveloper\\SquadDev\\SquadDev.csproj",
       "projectName": "SquadDev",
-      "projectPath": "C:\\Users\\icosta\\source\\repos\\Cshrp_SquadDev\\SquadDev\\SquadDev.csproj",
-      "packagesPath": "C:\\Users\\icosta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\icosta\\source\\repos\\Cshrp_SquadDev\\SquadDev\\obj\\",
+      "projectPath": "C:\\Users\\Ingrid Costa\\source\\repos\\CShp_SquadDeveloper\\SquadDev\\SquadDev.csproj",
+      "packagesPath": "C:\\Users\\Ingrid Costa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ingrid Costa\\source\\repos\\CShp_SquadDeveloper\\SquadDev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\icosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ingrid Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -235,7 +235,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

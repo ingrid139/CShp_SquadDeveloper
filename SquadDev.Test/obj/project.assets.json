@@ -6527,23 +6527,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\icosta\\.nuget\\packages\\": {},
+    "C:\\Users\\Ingrid Costa\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\icosta\\source\\repos\\Cshrp_SquadDev\\SquadDev.Test\\SquadDev.Test.csproj",
+      "projectUniqueName": "C:\\Users\\Ingrid Costa\\source\\repos\\CShp_SquadDeveloper\\SquadDev.Test\\SquadDev.Test.csproj",
       "projectName": "SquadDev.Test",
-      "projectPath": "C:\\Users\\icosta\\source\\repos\\Cshrp_SquadDev\\SquadDev.Test\\SquadDev.Test.csproj",
-      "packagesPath": "C:\\Users\\icosta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\icosta\\source\\repos\\Cshrp_SquadDev\\SquadDev.Test\\obj\\",
+      "projectPath": "C:\\Users\\Ingrid Costa\\source\\repos\\CShp_SquadDeveloper\\SquadDev.Test\\SquadDev.Test.csproj",
+      "packagesPath": "C:\\Users\\Ingrid Costa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Ingrid Costa\\source\\repos\\CShp_SquadDeveloper\\SquadDev.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\icosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Ingrid Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6556,8 +6556,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\icosta\\source\\repos\\Cshrp_SquadDev\\SquadDev\\SquadDev.csproj": {
-              "projectPath": "C:\\Users\\icosta\\source\\repos\\Cshrp_SquadDev\\SquadDev\\SquadDev.csproj"
+            "C:\\Users\\Ingrid Costa\\source\\repos\\CShp_SquadDeveloper\\SquadDev\\SquadDev.csproj": {
+              "projectPath": "C:\\Users\\Ingrid Costa\\source\\repos\\CShp_SquadDeveloper\\SquadDev\\SquadDev.csproj"
             }
           }
         }
@@ -6603,7 +6603,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
       }
     }
   }
